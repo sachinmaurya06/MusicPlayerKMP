@@ -1,30 +1,9 @@
-# Gradle files
-.gradle/
-build/
-*/build/
-
-# IntelliJ / Android Studio
-.idea/
-*.iml
-local.properties
-
-# KMP generated files
-.shared/build/
-.kmp/
-
-# Logs
-*.log
-
-# Android Generated
-captures/
-output-metadata.json
-
-# NDK
-.obj/
-
-# Keystore
-*.jks
+/.idea/
+/.gradle/
+/build/
+/app/build/
+/shared/build/
+/local.properties
+*.apk
 *.keystore
-
-# Compose Preview
-*.preview.cache
+.DS_Store
